@@ -16,7 +16,7 @@ Prior to joining NYU, Prateek worked as a structural engineering in the city of 
 ## News
 
 - **[May. 2023]** Jorunal article published in Natural Hazards Earth System Sciences.
-- **[Mar. 2023]** Two papers selected to present at Internation Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
+- **[Mar. 2023]** Two papers selected to present at International Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
 - **[June. 2022]** Prateek passed his Ph.D. Qualifying Exam.
 - **[April. 2022]** Selected as Coalition for Disaster Resilient Infrastructure Fellow (2022-23)
 - **[May. 2021]** Selected for NYU Urban Doctoral Fellowship.
