@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About Prateek
 
 Prateek is a Ph.D. candidate at New York University (NYU) in Civil and Urban Engineering. He is supervised by Dr. Luis Ceferino who leads Disaster Risk Analysis Lab at NYU. Prateek's research focuses on utility risk managemnet to natural disasters. His current focuses on improving the resilience of power systems to hurriacnes by (a) forecasting power outages before arrival of hurricane for emergency response (b) investating increased resilience distributed energy resources such as solar panels. 
 
