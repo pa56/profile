@@ -25,18 +25,17 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nhess-23-1665-2023-avatar-web.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/stormsurge.png" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://nhess.copernicus.org/articles/23/1665/2023/">Probabilistic and machine learning methods for uncertainty quantification in power outage prediction due to extreme events</a></div>
-    <div class="author"><strong>Prateek Arora</strong>, Luis Ceferino</div>
-    <div class="periodical"><em>Natural Hazards and Earth System Sciences, 2023.</em></div>
+    <div class="title"><a href="https://arxiv.org/abs/2204.13168">A Framework for Flexible Peak Storm Surge Prediction</a></div>
+    <div class="author">Benjamin Pachev,<strong> Prateek Arora</strong>, Carlos del-Castillo-Negrete, Eirik Valseth, Clint Dawson</div>
+    <div class="periodical"><em>Preprint submitted to Coastal Engineering, 2023.</em></div>
     <div class="links">
-      <a href="https://nhess.copernicus.org/articles/23/1665/2023/nhess-23-1665-2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://nhess.copernicus.org/articles/23/1665/2023/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
-      <a href="https://nhess.copernicus.org/articles/23/1665/2023/nhess-23-1665-2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Journal Paper</i></strong>
+      <a href="https://arxiv.org/pdf/2204.13168.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2204.13168" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
+      <a href="https://arxiv.org/abs/2204.13168" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
