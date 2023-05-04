@@ -4,19 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Prateek is a Ph.D. candidate at New York University (NYU) in Civil and Urban Engineering. He is supervised by Dr. Luis Ceferino who leads Disaster Risk Analysis Lab at NYU. Prateek's research focuses on utility risk managemnet to natural disasters. His current focuses on improving the resilience of power systems to hurriacnes by (a) forecasting power outages before arrival of hurricane for emergency response (b) investating increased resilience distributed energy resources such as solar panels. 
+
+Prior to joining NYU, Prateek worked as a structural engineering in the city of San Francisco. He obtained his MS Structural Engineering (2020) from Stanford Unviversity, CA and B.E. (Hons.) Civil Engineering  from BITS Pilani, India (2018).  
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Risk Analysis:** Utility risk management, Natural hazards
+- **Machine Learning:** Power outage prediction, surrogate modeling of disasters
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2023]** Jorunal article published in Natural Hazards Earth System Sciences.
+- **[Mar. 2023]** Two papers selected to present at Internation Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
+- **[June. 2022]** Prateek passed his Ph.D. Qualifying Exam.
+- **[April. 2022]** Selected as Coalition for Disaster Resilient Infrastructure Fellow (2022-23)
+- **[May. 2021]** Selected for NYU Urban Doctoral Fellowship.
+- **[Jan. 2021]** Joined NYU Disaster Risk Analysis Lab as a Ph.D. Student.
 
 {% include_relative _includes/publications.md %}
 
