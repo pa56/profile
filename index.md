@@ -14,7 +14,7 @@ Prior to joining NYU, Prateek worked as a structural engineering in the city of 
 - **Machine Learning:** Power outage prediction, surrogate modeling of disasters
 
 ## News
-
+- **[July. 2023]** Presented our research at International Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
 - **[May. 2023]** Jorunal article published in Natural Hazards Earth System Sciences.
 - **[Mar. 2023]** Two papers selected to present at International Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
 - **[June. 2022]** Prateek passed his Ph.D. Qualifying Exam.
