@@ -29,13 +29,13 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2204.13168">A Framework for Flexible Peak Storm Surge Prediction</a></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.coastaleng.2023.104406">A Framework for Flexible Peak Storm Surge Prediction</a></div>
     <div class="author">Benjamin Pachev,<strong> Prateek Arora</strong>, Carlos del-Castillo-Negrete, Eirik Valseth, Clint Dawson</div>
-    <div class="periodical"><em>Preprint submitted to Coastal Engineering, 2023.</em></div>
+    <div class="periodical"><em>Coastal Engineering, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2204.13168.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://arxiv.org/abs/2204.13168" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
-      <a href="https://arxiv.org/abs/2204.13168" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://doi.org/10.1016/j.coastaleng.2023.104406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1016/j.coastaleng.2023.104406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
+      <a href="https://doi.org/10.1016/j.coastaleng.2023.104406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
