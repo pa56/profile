@@ -36,6 +36,7 @@
       <a href="https://doi.org/10.1016/j.coastaleng.2023.104406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://doi.org/10.1016/j.coastaleng.2023.104406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
       <a href="https://doi.org/10.1016/j.coastaleng.2023.104406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Journal Paper</i></strong>
     </div>
   </div>
 </div>
