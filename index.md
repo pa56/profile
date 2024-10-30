@@ -14,6 +14,9 @@ Prior to joining NYU, Prateek worked as a structural engineering in the city of 
 - **Machine Learning:** Power outage prediction, surrogate modeling of disasters
 
 ## News
+- **[April. 2024]** Prateek was invited to attend the International Conference on Disaster Resilient Infrastructure (2024) and Coalition for Disaster Resilient Infrastructure Fellowship Convocation upon successful completion of his CDRI fellowship project for the year 2022-2023.
+- **[Jan. 2024]** Prateek completed his research proposal defense on the topic " Probabilistic Methods for Power Outage Predictions and Adoption of Renewables towards the Resilience of Power Infrastructure to Extreme Weather Events"
+- **[Jan. 2024]** Journal paper accepted in ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering "A Quasi-Binomial Regression Model for Hurricane-Induced Power Outages during Early Warning"
 - **[July. 2023]** Presented our research at International Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
 - **[May. 2023]** Jorunal article published in Natural Hazards Earth System Sciences.
 - **[Mar. 2023]** Two papers selected to present at International Conference on Applied Statisitcs and Probability in Civil Engineering (ICASP-14, Dublin, Ireland).
