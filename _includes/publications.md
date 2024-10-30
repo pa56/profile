@@ -4,6 +4,24 @@
 <ol class="bibliography">
 
 <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Figure5.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://engrxiv.org/preprint/view/3899">A Quasi-Binomial Regression Model for Hurricane-Induced Power Outages during Early Warning (2024)</a></div>
+    <div class="author"><strong>Prateek Arora</strong>, Luis Ceferino</div>
+    <div class="periodical"><em>Under Review</em></div>
+    <div class="links">
+      <a href="https://engrxiv.org/preprint/view/3899" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://engrxiv.org/preprint/view/3899" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:SY-poN-_A9kJ:scholar.google.com/&output=citation&scisdr=ClE48TCQELn_x5p9TwI:AFWwaeYAAAAAZyJ7VwI10bccwJs7kgJooqxagaU&scisig=AFWwaeYAAAAAZyJ7V4jPj8UglydgSHUBTsmL_KM&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Preprint</i></strong>
+    </div>
+  </div>
+</div>
 
 <div class="pub-row">
 
