@@ -4,6 +4,27 @@
 <ol class="bibliography">
 
 <li>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nhess-23-1665-2023-avatar-web.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ascelibrary.org/doi/abs/10.1061/AJRUA6.RUENG-1215">A Quasi-Binomial Regression Model for Hurricane-Induced Power Outages during Early Warning</a></div>
+    <div class="author"><strong>Prateek Arora</strong>, Luis Ceferino</div>
+    <div class="periodical"><em>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering
+, 2024 10(2).</em></div>
+    <div class="links">
+      <a href="https://ascelibrary.org/doi/abs/10.1061/AJRUA6.RUENG-1215" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ascelibrary.org/doi/abs/10.1061/AJRUA6.RUENG-1215" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7GVMGwqgRXIJ:scholar.google.com/&output=citation&scisdr=ClE48TCQELn_x5p_dE0:AFWwaeYAAAAAZyJ5bE0wrFNQ4Gy2CkwOtGykViY&scisig=AFWwaeYAAAAAZyJ5bLvfHi--m7eXsBEZ7dyvK_g&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Journal Paper</i></strong>
+    </div>
+  </div>
+</div>
+  
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
