@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://engrxiv.org/preprint/view/3899">A Quasi-Binomial Regression Model for Hurricane-Induced Power Outages during Early Warning (2024)</a></div>
+    <div class="title"><a href="https://engrxiv.org/preprint/view/3899">The Feasibility of Energy Communities for Hurricane Resilience (2024)</a></div>
     <div class="author"><strong>Prateek Arora</strong>, Luis Ceferino</div>
     <div class="periodical"><em>Under Review</em></div>
     <div class="links">
