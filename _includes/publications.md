@@ -21,6 +21,7 @@
       <strong><i style="color:#e74d3c">Journal Paper</i></strong>
     </div>
   </div>
+</div>
   
 <div class="pub-row">
 
