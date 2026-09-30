@@ -16,7 +16,7 @@
     <div class="periodical"><em>npj Natural Hazards (2026)</em></div>
     <div class="links">
       <a href="https://www.nature.com/articles/s44304-026-00270-z" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="[https://engrxiv.org/preprint/view/3899](https://www.nature.com/articles/s44304-026-00270-z)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
+      <a href="https://www.nature.com/articles/s44304-026-00270-z" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:slB-DT3bAi0J:scholar.google.com/&output=citation&scisdr=CiBZlYcyELjbsAJot-c:ACTRDVEAAAAAar1ur-evR3dE7Y5hE-p_3kQXxKc&scisig=ACTRDVEAAAAAar1ur_Y-VRZX4iCgECscrBfMtos&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <strong><i style="color:#e74d3c">Journal Paper</i></strong>
     </div>
