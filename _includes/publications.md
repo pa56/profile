@@ -11,14 +11,14 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.nature.com/articles/s44304-026-00270-z">Satellite based inference for disaster induced power outages using daily nighttime light observations (2026)</a></div>
+    <div class="title"><a href="https://www.nature.com/articles/s44304-026-00270-z">Satellite based inference for disaster induced power outages using daily nighttime light observations</a></div>
     <div class="author"><strong>Prateek Arora</strong>, Luis Ceferino, Gregory Dobler</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="periodical"><em>npj Natural Hazards (2026)</em></div>
     <div class="links">
       <a href="https://www.nature.com/articles/s44304-026-00270-z" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="[https://engrxiv.org/preprint/view/3899](https://www.nature.com/articles/s44304-026-00270-z)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:slB-DT3bAi0J:scholar.google.com/&output=citation&scisdr=CiBZlYcyELjbsAJot-c:ACTRDVEAAAAAar1ur-evR3dE7Y5hE-p_3kQXxKc&scisig=ACTRDVEAAAAAar1ur_Y-VRZX4iCgECscrBfMtos&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Preprint</i></strong>
+      <strong><i style="color:#e74d3c">Journal Paper</i></strong>
     </div>
   </div>
   
@@ -29,14 +29,14 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://engrxiv.org/preprint/view/3899">The Feasibility of Energy Communities for Hurricane Resilience (2024)</a></div>
+    <div class="title"><a href="https://ascelibrary.org/doi/full/10.1061/NHREFO.NHENG-2728">Feasibility of Energy Communities for Urban Resilience against Hurricanes</a></div>
     <div class="author"><strong>Prateek Arora</strong>, Luis Ceferino</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="periodical"><em>ASCE Natural Hazards Review (2026)</em></div>
     <div class="links">
-      <a href="https://engrxiv.org/preprint/view/3899" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://engrxiv.org/preprint/view/3899" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:SY-poN-_A9kJ:scholar.google.com/&output=citation&scisdr=ClE48TCQELn_x5p9TwI:AFWwaeYAAAAAZyJ7VwI10bccwJs7kgJooqxagaU&scisig=AFWwaeYAAAAAZyJ7V4jPj8UglydgSHUBTsmL_KM&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Preprint</i></strong>
+      <a href="https://ascelibrary.org/doi/full/10.1061/NHREFO.NHENG-2728" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ascelibrary.org/doi/full/10.1061/NHREFO.NHENG-2728" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Publication Page</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:TwqHezuIJgUJ:scholar.google.com/&output=citation&scisdr=CiBZlYcyELjbsAJpiSU:ACTRDVEAAAAAar1vkSWkVai65YKeP90l1Ly9fx0&scisig=ACTRDVEAAAAAar1vkagXPTdtsmRrPvItW7gatms&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Journal Paper</i></strong>
     </div>
   </div>
 </div>
