@@ -11,6 +11,7 @@ Prateek is a Postdoctoral Researcher at UC Berkeley in the Department of Civil a
 - **Risk Analysis:** Utility risk management, Natural hazards
 - **Machine Learning:** Power outage prediction, surrogate modeling of disasters
 - **Digital Twins:** Structural infrastructure monitoring
+  
 ## News
 - **[August. 2025]** Prateek joined as a Postdoctoral Researcher at UC Berkeley.
 - **[July. 2025]** Prateek successfully defended his dissertation on "Probabilistic Modeling for Power Outages and Adoption of Renewables for Enhancing Power Infrastructure Resilience to Extreme Events".
