@@ -28,4 +28,5 @@ Prateek is a Postdoctoral Researcher at UC Berkeley in the Department of Civil a
 - **[May. 2021]** Selected for NYU Urban Doctoral Fellowship.
 - **[Jan. 2021]** Joined NYU Disaster Risk Analysis Lab as a Ph.D. Student.
 
+{% include_relative _includes/dissertation.md %}
 {% include_relative _includes/publications.md %}
